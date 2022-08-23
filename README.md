@@ -5,7 +5,7 @@
 # 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Ksfdd1) 
 
-#SKILL
+# SKILL:
 <h2>Renewable Engineering</h2>
 <h2>Electric System</h2>
 <h2>Web App </h2>
