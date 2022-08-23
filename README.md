@@ -6,6 +6,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Ksfdd1) 
 
 # SKILL:
-<h2>Renewable Engineering</h2>
-<h2>Electric System</h2>
-<h2>Web App </h2>
+<h3>Renewable Engineering</h3>
+<h3>Electric System</h3>
+<h3>Web App Server Database</h3>
+<h3>Machine Learning(TFJS)</h3>
+<h3>IOT Arduino(Rust)</h3>
+<h3>IOT RaspberryPI(Node-red)</h3>
