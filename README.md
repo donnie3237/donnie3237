@@ -5,7 +5,7 @@
 # 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Ksfdd1) 
 
-# <i class="fi fi-rs-rocket-lunch"></i> SKILL:
+# 💼SKILL:
 <h3>Renewable Engineering</h3>
 <h3>Electric System</h3>
 <h3>Web App Server Database</h3>
