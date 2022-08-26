@@ -12,3 +12,7 @@
 <h3>Machine Learning(TFJS)🧠</h3>
 <h3>IOT Arduino(Rust)🤖</h3>
 <h3>IOT RaspberryPI(Node-red)🤖</h3>
+
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
