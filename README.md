@@ -5,7 +5,7 @@
 
 </div>
 <div align="center">
-  <img width="250" height="100" src="https://soraclown.netlify.app/src/img/logo.png" alt="Card header"/>
+  <img width="200" height="100" src="https://soraclown.netlify.app/src/img/logo.png" alt="Card header"/>
 </div>
 <br>
 
