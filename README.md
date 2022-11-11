@@ -36,7 +36,7 @@
 
 # 🌐 Socials:
 <br/>
-<a href="https://twitter.com/@Ksfdd1"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg" width="200" height="100"></a>
+<a href="https://twitter.com/@Ksfdd1"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg" width="300" height="100"></a>
 
 # 💼SKILL:
 <h3>Renewable Energy Engineering♻️</h3>
