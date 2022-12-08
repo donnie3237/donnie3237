@@ -16,35 +16,40 @@
 
 
 <br/>
+<br/>
+<br/>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="100" height="100"/>
+  <img style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/electron/electron-original.svg" alt="ElectronJS" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" alt="ExpressJS" width="100" height="100"/>
 </div>
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" alt="TensorflowJS" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" alt="Rust" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" alt="TypeScript" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" alt="TensorflowJS" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" alt="Rust" width="100" height="100"/>
 </div>
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="ReactJS" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="ReactJS" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="100" height="100"/>
 </div>
 <div align="center">
-  <img src="https://miro.medium.com/max/2400/0*BRl-uL7N9LF-1hiD.png" alt="MongoDB" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+  <img src="https://miro.medium.com/max/2400/0*BRl-uL7N9LF-1hiD.png" alt="MongoDB" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="JavaScript" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="100" height="100"/>
 </div>
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/heroku/heroku-original.svg" alt="Heroku" width="45" height="45"/>
-  <img src="https://nodered.org/about/resources/media/node-red-icon-2.png" alt="node-red" width="45" height="45"/>
-  <img src="https://mqtt.org/assets/img/mqtt-logo-ver.jpg" alt="Mqtt" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/heroku/heroku-original.svg" alt="Heroku" width="100" height="100"/>
+  <img src="https://nodered.org/about/resources/media/node-red-icon-2.png" alt="node-red" width="100" height="100"/>
+  <img src="https://mqtt.org/assets/img/mqtt-logo-ver.jpg" alt="Mqtt" width="100" height="100"/>
 </div>
+<br/>
+<br/>
+<br/>
 
 # 🌐 Socials:
 <br/>
-<a align="center" href="https://twitter.com/@Ksfdd1"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg" width="400" height="100"></a>
+<a align="center" href="https://twitter.com/@Ksfdd1"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg" width="400" height="150"></a>
 <br/>
 
 # 💼SKILL:
