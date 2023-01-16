@@ -58,6 +58,6 @@
 <br/>
 
 
-# <a href="https://dose-products.netlify.app/" terget="_blank">Resume console.changeThisWorld("DosE")</a>
+# <a align="center" href="https://dose-products.netlify.app/" terget="_blank">Resume console.changeThisWorld("DosE")</a>
 
 
