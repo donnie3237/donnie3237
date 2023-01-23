@@ -10,7 +10,6 @@
 ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"  width="60" height="50" />
 ><img src="https://pbs.twimg.com/profile_images/1427375984475578389/jWzgho1b_400x400.png"  width="50" height="50" />
 ><img src="https://styles.redditmedia.com/t5_3fh1h/styles/communityIcon_wb4keznfn2t41.png"  width="50" height="50" />
-><img src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4"  width="50" height="50" />
 ></div>
  
  <br/>
@@ -35,6 +34,7 @@
 ><img src="https://user-images.githubusercontent.com/38581401/134487662-49733d45-2ba0-4c19-aa07-1f43fd35c453.png" width="150" height="60"/>
 ><img  src="http://sled.rs/art/tree_face.png" width="60" height="60"/>
 ><img src="https://avatars.githubusercontent.com/u/1562726?s=280&v=4" width="60" height="60"/>
+><img src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4"  width="50" height="50" />
 ></div>
 <br/>
 
@@ -49,6 +49,9 @@
 ><div>
 ><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="60" height="60"/>
 ><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="60" height="60"/>
+><img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="60" height="60"/>
+><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="60" height="60"/>
+><img src="https://doc.rust-lang.org/cargo/images/Cargo-Logo-Small.png" height="60" width="60"/>
 ></div>
 
 <br/>
@@ -57,7 +60,7 @@
 <br/>
 <br/>
 
-
-# <a align="center" href="https://dose-products.netlify.app/" terget="_blank">Resume</a>
-
+<div align="center">
+<a align="center" href="https://dose-products.netlify.app/" terget="_blank">Resume</a>
+</div>
 
