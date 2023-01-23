@@ -45,7 +45,7 @@
 
 <br/>
 
-><h2>DevOps</h2>
+><h2>DevOps & tools</h2>
 ><div>
 ><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="60" height="60"/>
 ><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="60" height="60"/>
@@ -58,6 +58,6 @@
 <br/>
 
 
-# <a align="center" href="https://dose-products.netlify.app/" terget="_blank">Resume console.changeThisWorld("DosE")</a>
+# <a align="center" href="https://dose-products.netlify.app/" terget="_blank">Resume</a>
 
 
