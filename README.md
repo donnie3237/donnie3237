@@ -59,7 +59,8 @@
 <hr/>
 <br/>
 <br/>
-![](https://github.com/joiellantero/github-stats/blob/master/generated/languages.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
 <div align="center">
 <a align="center" href="https://dose-products.netlify.app/" terget="_blank">Resume</a>
