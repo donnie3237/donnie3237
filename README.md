@@ -59,7 +59,7 @@
 <hr/>
 <br/>
 <br/>
-![](<https://github.com/joiellantero/github-stats/blob/master/generated/languages.svg>)
+![](https://github.com/joiellantero/github-stats/blob/master/generated/languages.svg)
 
 <div align="center">
 <a align="center" href="https://dose-products.netlify.app/" terget="_blank">Resume</a>
