@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donnie3237&hide=css,scss,html&theme=tokyonight)
 
 <div align="center">
 <a align="center" href="https://dose-products.netlify.app/" terget="_blank">Resume</a>
