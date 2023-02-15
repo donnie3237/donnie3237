@@ -64,5 +64,5 @@
 
 <div align="center">
 <a align="center" href="https://dose-products.netlify.app/" terget="_blank">Resume</a>
-</div>
+</div> 
 
