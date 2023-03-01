@@ -17,14 +17,12 @@
  ><h2>Back-End</h2>
  ><div>
  ><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png"  width="150" height="60" />
- ><img src="https://miro.medium.com/max/1000/0*gYeEWqnWqw8P-yuF.png"  width="150" height="60" />
  ></div>
   <br/>
   
 ><h2>Database</h2>
 ><div>
 ><img src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png"  width="60" height="60" />
-><img src="https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png"  width="60" height="60" />
 ></div>
 <br/>
 
