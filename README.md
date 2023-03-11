@@ -16,6 +16,7 @@
   
  ><h2>Back-End</h2>
  ><div>
+ ><img src="https://actix.rs/img/logo.png" width="60" height="60" />
  ><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png"  width="150" height="60" />
  ></div>
   <br/>
@@ -43,10 +44,9 @@
 
 <br/>
 
-><h2>DevOps & tools</h2>
+><h2>More</h2>
 ><div>
 ><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="60" height="60"/>
-><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="60" height="60"/>
 ><img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="60" height="60"/>
 ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="60" height="60"/>
 ><img src="https://doc.rust-lang.org/cargo/images/Cargo-Logo-Small.png" height="60" width="70"/>
