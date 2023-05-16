@@ -9,7 +9,6 @@
 ><img src="https://www.solidjs.com/img/logo/without-wordmark/logo.png"  width="50" height="50" />
 ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"  width="60" height="50" />
 ><img src="https://pbs.twimg.com/profile_images/1427375984475578389/jWzgho1b_400x400.png"  width="50" height="50" />
-><img src="https://styles.redditmedia.com/t5_3fh1h/styles/communityIcon_wb4keznfn2t41.png"  width="50" height="50" />
 ></div>
  
  <br/>
@@ -62,6 +61,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donnie3237&hide=css,scss,html&theme=tokyonight)
 
 <div align="center">
-<a align="center" href="https://dose-products.netlify.app/" terget="_blank">Resume</a>
+<a align="center" href="https://dose-products.vercel.app/" terget="_blank">Resume</a>
 </div> 
 
