@@ -9,6 +9,7 @@
 ><img src="https://www.solidjs.com/img/logo/without-wordmark/logo.png"  width="50" height="50" />
 ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"  width="60" height="50" />
 ><img src="https://pbs.twimg.com/profile_images/1427375984475578389/jWzgho1b_400x400.png"  width="50" height="50" />
+><img src="https://avatars.githubusercontent.com/u/44914786?s=280&v=4" width="50" height="50" />
 ></div>
  
  <br/>
