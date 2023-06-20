@@ -62,6 +62,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donnie3237&hide=css,scss,html&theme=tokyonight)
 
 <div align="center">
-<a align="center" href="https://dose-products.vercel.app/" terget="_blank">Resume</a>
+<a align="center" href="https://dose-products.vercel.app/contact" terget="_blank">About me</a>
 </div> 
 
