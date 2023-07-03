@@ -31,8 +31,6 @@
 ><h2>Machine Learning & DataScient</h2>
 ><div>
 ><img src="https://codelabs.developers.google.com/static/codelabs/tensorflowjs-object-detection/img/1aee0ede85885520.png" width="60" height="60"/>
-><img src="https://user-images.githubusercontent.com/38581401/134487662-49733d45-2ba0-4c19-aa07-1f43fd35c453.png" width="150" height="60"/>
-><img  src="http://sled.rs/art/tree_face.png" width="60" height="60"/>
 ><img src="https://avatars.githubusercontent.com/u/1562726?s=280&v=4" width="60" height="60"/>
 ><img src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4"  width="50" height="50" />
 ></div>
