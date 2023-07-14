@@ -61,6 +61,6 @@
 
 
 <div align="center">
-<a align="center" href="https://dose-products.vercel.app/contact" terget="_blank">About me</a>
+<a align="center" href="https://dose-products2.vercel.app/contact" terget="_blank">About me</a>
 </div> 
 
