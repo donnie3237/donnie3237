@@ -19,6 +19,6 @@
         <img height="50" src="https://www.rewan.dev/resources/img/gin.png" />
         <img height="50" src="https://cdn.simpleicons.org/jira" />
         <img height="50" src="https://cdn.simpleicons.org/helm" />
-        <img height="50" src="https://tse4.mm.bing.net/th/id/OIP.vhSKgjcm7cBO2MTyuiW36AHaHa?cb=12&w=512&h=512&rs=1&pid=ImgDetMain&o=7&rm=3" />
+        <img height="50" src="https://mocoding.gallerycdn.vsassets.io/extensions/mocoding/vss-playwright/1.0.37/1744240343156/Microsoft.VisualStudio.Services.Icons.Default" />
     </div>
 </p>
