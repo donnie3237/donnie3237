@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Master of vibe</h1>
+    <h1 align="center">Master of VIBE</h1>
     <div align="center" margin-top="4">
         <img width="30%" src="https://cdn.simpleicons.org/openai/ffffff" />
         <img width="30%" src="https://cdn.simpleicons.org/githubcopilot/ffffff" />
